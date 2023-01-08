@@ -24,7 +24,7 @@ font-weight: 700;
 font-size: 65px;
 line-height: 76px;
 text-align: right;
-color:aliceblue;
+color:red;
 }
 .para-title{
     position: absolute;
@@ -110,6 +110,94 @@ line-height: 26px;
     height: 898px;
     left: 240px;
     top: 2300px;
-    
+    margin-top: 130px;
+    padding: 130px 150px;
+    border-radius: 10px;
+}
+/* my plans styles */
+.plans{
 
+ position: absolute;
+ width: 1141px;
+ left: 230px;
+ top: 1792px;
+}
+.plan{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color:green;
+}
+.skills-container{
+  
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    left: 230px;
+    top: 2010px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    display: flex;
+    gap: 20px;
+
+}
+.skill-title{
+    color:red;
+}
+.skill-description{
+  color:blueviolet;
+}
+.react{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 5000.96px;
+    background: url('../gradient3.png');
+    border-radius: 8px;
+}
+.row{
+color:aliceblue;
+font-size: 35px;
+
+}
+.batter{
+color:blue;
+font-size: 30px;
+
+background: yellowgreen;
+}
+.last-title{
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 6000.96px;
+    display: flex;
+background: orange;
+justify-content: space-around;
+}
+.bru{
+    position: absolute;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 24px;
+   font-family: 'Inter';
+   
+}
+span{
+    color:darkgreen;
+    background:black;
 }
