@@ -1,0 +1,115 @@
+header{
+    background-image: url('../banner/banner3.png');
+    background-repeat: no-repeat;
+    
+   position: absolute;
+   width: 1600px;
+   height: 808px;
+   left: 80px;
+   top: -34px;
+   
+}
+/* header position */
+
+.first-title{
+position: absolute;
+width: 525px;
+height: 228px;
+left: 855px;
+top: 208px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+color:aliceblue;
+}
+.para-title{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color:yellow;
+}
+.btn{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+}
+/* main section styles */
+main{
+    position: absolute;
+    width: 572px;
+    height: 723.3px;
+    left: 206px;
+    top:100px;
+
+}
+.about{
+
+}
+.section-title{
+position: absolute;
+width: 288px;
+height: 94px;
+left: 820px;
+top: 500px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700px;
+font-size: 40px;
+line-height: 47px;
+}
+.section-description{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 820px;
+top: 660px;
+font-family: 'Work Sana';
+font-style: normal;
+font-weight: 400px;
+font-size: 16px;
+line-height: 26px;
+
+}
+.about-info-title{
+    position: absolute;
+    width: 603px;
+    height: 393px;
+    left: 800px;
+    top: 800px;
+}
+.about.info{
+    position: absolute;
+    width: 481.97px;
+    height: 69.75px;
+    left: calc(50% - 481.97px/2 +293.01px);
+    bottom: 1692.25px;
+    font-family: 'Work Sans';
+    font-style:normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.about{
+    position: absolute;
+    width: 451px;
+    height: 898px;
+    left: 240px;
+    top: 2300px;
+    
+
+}
