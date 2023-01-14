@@ -1,0 +1,124 @@
+/* ------css style------ */
+.header{
+    background-image: url('../banner/banner3.png');
+    background-repeat: no-repeat;
+    position: absolute;
+   width: 1600px;
+   height: 808px;
+   left: 80px;
+   top: -34px;
+}
+.first-header{
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+text-align: right;
+}
+.header-title{
+    font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+}
+.btn{
+    color:orange;
+    border: 5px;
+    border-radius: 3px;
+}
+.second-title{
+    position: absolute;
+width: 1211px;
+height: 910px;
+left: 169px;
+top: 877px;
+
+}
+.second-header{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 820px;
+top: 1101px;
+}
+.lorem{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 820px;
+top: 1219px;
+}
+.ipsum{
+    position: absolute;
+    width: 603px;
+    height: 393px;
+    left: 777px;
+    top: 1394px;
+    
+}
+.images{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 169px;
+top: 877px;
+}
+.my-plans{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 180px;
+top: 2700px;
+text-align: center;
+color: blue;
+}
+.main{
+    
+position: absolute;
+width: 1141px;
+height: 202.96px;
+left: 225px;
+top: 2800px;
+display: flex;
+gap: 200px;
+
+}
+.main-main{
+color:burlywood;
+
+}
+.gra{
+   background: url(../watch.png);
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 3000px;
+display: flex;
+
+}
+.gra img{
+width: 80%;
+height: 100%;
+border: 10px;
+border-radius: 5px;
+}
+footer{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 3500px;
+border: 5px solid black;
+background-color: cadetblue;
+display: flex;
+justify-content: space-around;
+
+}
+.ll{
+    background-color: black;
+    border: 5px;
+    border-radius: 3px;
+    color: darkmagenta;
+}
